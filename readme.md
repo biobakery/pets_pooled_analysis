@@ -1,10 +1,10 @@
 ##### [Replace the contents this README.MD file with the appropriate "Users manual" needed for the python tool.]  
  
-# Python Tool Template
+# Pets Pooled Analysis
 
 ## Introduction
 
-> This page gives details concerning guiding principles and formatting required for developing python tool. 
+> This repository contains the code and supplementary material for the companion animal pooled analysis study presented in the manuscript "A comprehensive profile of the companion animal gut microbiome integrating reference-based and reference-free methods" by Branck et al. 
 
 ## Requirements
 - #### Git and Github accounts
