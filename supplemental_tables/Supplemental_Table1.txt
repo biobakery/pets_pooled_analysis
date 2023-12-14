@@ -1,0 +1,21 @@
+Study	PMID	Accession	Authors	Publication Year	Sequencer	Cats (# Individuals)	Dogs (#Individuals)	# samples		
+Dysbiosis in a canine model of human fistulizing Crohn's disease	32730134	PRJNA531201	Maldonado-Contreras A	2020	Illumina NextSeq 500	NA	20	108		
+Deep Illumina-based shotgun sequencing reveals dietary effects on the structure and function of the fecal microbiome of growing kittens	25010839	PRJEB4391	Deusch O	2014	Illumina HiSeq 2000	12	NA	36		
+A Longitudinal Study of the Feline Faecal Microbiome Identifies Changes into Early Adulthood Irrespective of Sexual Development	26659594	PRJEB9357	Deusch O	2015	Illumina HiSeq 2000	30	NA	88		
+Pre- and post-weaning diet alters the faecal metagenome in the cat with differences in vitamin and carbohydrate metabolism gene abundances	27876765	MG-RAST project=mgp13384	Young W	2016	Illumina HiSeq 2000	20	NA	20		
+"Metagenomic dissection of the canine gut microbiota: insights into taxonomic, metabolic and nutritional features"	30680877	PRJNA504009	Alessandri G	2019	Illumina NextSeq 500	NA	2	2		
+Metagenomic analysis revealed beneficial effects of probiotics in improving the composition and function of the gut microbiota in dogs with diarrhoea	31021333	PRJNA524271;	Xu H	2019	Illumina HiSeq X Ten Sequencing System	NA	40	80		
+		PRJNA481475								
+Diet-induced remission in chronic enteropathy is associated with altered microbial community structure and synthesis of secondary bile acids	31472697	PRJNA515316	Wang S	2019	Illumina NextSeq 500	NA	18	53		
+Rapid Reconstitution of the Fecal Microbiome after Extended Diet-Induced Changes Indicates a Stable Gut Microbiome in Healthy Adult Dogs	32303546	PRJEB34360	Allaway D	2020	Illumina HiSeq 4000	NA	32	48		
+Feces Metagenomes and Metagenome-Assembled Genome Sequences from Two Separate Dogs (Canis lupus familiaris) with Multiple Diarrheal Episodes	33239463	PRJNA655841	Ateba TP	2020	Illumina NovaSeq	NA	2	1		
+Whole-Genome Shotgun Metagenomic Sequencing Reveals Distinct Gut Microbiome Signatures of Obese Cats	35467389	PRJNA758898	Ma X	2022	Illumina NovaSeq6000	16	NA	16		
+Heterogeneity of gut microbial responses in healthy household dogs transitioning from an extruded to a mildly cooked diet	34249503	PRJNA714112	Tanprasertsuk J	2021	Illumina HiSeq 2500	NA	33	56		
+Differences in the gut microbiomes of dogs and wolves: roles of antibiotics and starch	33676490	PRJNA702770	Liu Y	2021	Illumina HiSeq 2500	NA	5	5		
+Total number of samples from public studies								513		
+Private samples (HPN)						207	1702	1909		
+Total number companion animal gut metagenomes (public and private)								2422		
+HMP1-II								238		
+Madagascar								112		
+# human gut metagenomes								350		
+Total # gut metagenomes 								2772		
