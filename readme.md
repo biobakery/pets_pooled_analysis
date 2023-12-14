@@ -1,4 +1,3 @@
-##### [Replace the contents this README.MD file with the appropriate "Users manual" needed for the python tool.]  
  
 # Pets Pooled Analysis
 
