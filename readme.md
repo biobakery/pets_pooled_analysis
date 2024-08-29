@@ -3,7 +3,7 @@
 
 ## Introduction
 
-This repository contains the code and supplementary material for the companion animal pooled analysis study presented in the manuscript entitled 
+This repository contains the code and supplementary material for the companion animal pooled analysis study presented in the following manuscript: 
 
 "A comprehensive profile of the companion animal gut microbiome integrating reference-based and reference-free methods"
 
