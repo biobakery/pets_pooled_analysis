@@ -3,7 +3,11 @@
 
 ## Introduction
 
-This repository contains the code and supplementary material for the companion animal pooled analysis study presented in the manuscript "A comprehensive profile of the companion animal gut microbiome integrating reference-based and reference-free methods" by Branck et al. 
+This repository contains the code and supplementary material for the companion animal pooled analysis study presented in the manuscript "A comprehensive profile of the companion animal gut microbiome integrating reference-based and reference-free methods" by Branck et al.
+
+Tobyn Branck<sub>1,2,3</sub>, Zhiji Hu1,2, William A. Nickols1,2,4, Aaron M. Walsh1,2,4, Amrisha Bhosle1,2,4, Meghan I. Short1,2,4, Jacob T. Nearing1,2,4, Francesco Asnicar5, Lauren J. McIver1,2, Sagun Maharjan1,2,4, Ali Rahnavard6, Artemis Louyakis3, Dayakar V. Badri3, Christoph Brockel3, Kelsey N. Thompson1,2,4, Curtis Huttenhower1,2,4,7
+
+1Department of Biostatistics, Harvard T.H. Chan School of Public Health, Boston, MA, USA, 2Harvard Chan Microbiome in Public Health Center, Harvard T. H. Chan School of Public Health, Boston, MA, USA, 3Science and Technology Center, Hill’s Pet Nutrition, Inc., Topeka, KS, USA, 4Infectious Disease and Microbiome Program, Broad Institute of MIT and Harvard, Cambridge, MA, USA, 5CIBIO Department, University of Trento, Trento, Italy, 6Computational Biology Institute, Department of Biostatistics and Bioinformatics, Milken Institute School of Public Health, The George Washington University, Washington, DC, USA, 7Department of Immunology and Infectious Diseases, Harvard T. H. Chan School of Public Health, Boston, MA, USA
 
 ## Contents
 Custom scripts:
