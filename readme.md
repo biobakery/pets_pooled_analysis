@@ -23,3 +23,6 @@ Includes tables describing individual study characteristics and sample informati
 * Supplemental Table 9: Feature-wise testing (multivariate linear model) for differences in gut microbiome, at the SGB-level, across host species (cats, dogs, and humans).								
 * Supplemental Table 10: Feature-wise testing for differences in ARGs across host species (cats, dogs, and humans). Multivariate linear models ran with MaAsLin 2 for all samples.
 * Supplemental Table 11: Feature-wise testing for differences in ARGs (organized into antibiotic superclasses) across host species (cats, dogs, and humans). Multivariate linear models ran with MaAsLin 2.
+* Supplemental Table 12: Oct22 to Jun23 database taxonomy mapping for SGBs
+* Supplemental Table 13: ARG abundance table
+* Supplemental Table 14: Abundance table for ARGs grouped into ABX targets (ABX superclasses)
