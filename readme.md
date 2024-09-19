@@ -31,4 +31,4 @@ Includes tables describing individual study characteristics and sample informati
 * Supplemental Table 12: Oct22 to Jun23 database taxonomy mapping for SGBs
 * Supplemental Table 13: ARG abundance table
 * Supplemental Table 14: Abundance table for ARGs grouped into ABX targets (ABX superclasses)
-* The study's metadata file is also included in this directory
+* Supplemental Table 15: sample-specific metadata
